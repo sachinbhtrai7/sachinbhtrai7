@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhattarai</h1>
 <h3 align="center">A passionate backend developer from NEPAL</h3>
 
-- 🔭 I’m currently working on **PHP,WEB DESIGNING**
+- 🔭 I’m currently working on **Pandas,Numpy**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinbhtrai7?tab=repositories](https://github.com/sachinbhtrai7?tab=repositories)
 
-- 💬 Ask me about **php,tailwind css**
+- 💬 Ask me about **php,tailwind css,powerBi**
 
 - 📫 How to reach me **sachinbhtrai7@gmail.com**
 
